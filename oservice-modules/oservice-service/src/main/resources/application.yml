@@ -1,0 +1,17 @@
+spring:
+    application:
+        name: os-service
+
+server:
+    port: 30010 #启动端口 30010,30011 .... 30019
+
+eureka:
+     instance:
+        preferIpAddress: true
+        statusPageUrlPath: /actuator/info
+        healthCheckUrlPath: /actuator/health
+     client:
+        registerWithEureka: true
+        fetchRegistry: true
+        serviceUrl:
+          defaultZone: http://localhost:20010/eureka/

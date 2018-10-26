@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oservice-admin" />
+        <module name="oservice-app" />
+        <module name="oservice-center" />
+        <module name="oservice-common" />
+        <module name="oservice-monitor" />
+        <module name="oservice-serial-push-coin" />
+        <module name="oservice-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="os-monitor" target="1.8" />
+      <module name="oservice-admin" target="1.8" />
+      <module name="oservice-app" target="1.8" />
+      <module name="oservice-center" target="1.8" />
+      <module name="oservice-cloud" target="1.8" />
+      <module name="oservice-common" target="1.8" />
+      <module name="oservice-control" target="1.8" />
+      <module name="oservice-modules" target="1.8" />
+      <module name="oservice-monitor" target="1.8" />
+      <module name="oservice-provider" target="1.8" />
+      <module name="oservice-serial-push-coin" target="1.8" />
+      <module name="oservice-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

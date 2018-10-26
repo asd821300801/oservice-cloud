@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oservice-control/os-monitor.iml" filepath="$PROJECT_DIR$/oservice-control/os-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-modules/oservice-admin/oservice-admin.iml" filepath="$PROJECT_DIR$/oservice-modules/oservice-admin/oservice-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-modules/oservice-app/oservice-app.iml" filepath="$PROJECT_DIR$/oservice-modules/oservice-app/oservice-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-center/oservice-center.iml" filepath="$PROJECT_DIR$/oservice-center/oservice-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-cloud.iml" filepath="$PROJECT_DIR$/oservice-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-common/oservice-common.iml" filepath="$PROJECT_DIR$/oservice-common/oservice-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-control/oservice-control.iml" filepath="$PROJECT_DIR$/oservice-control/oservice-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-modules/oservice-modules.iml" filepath="$PROJECT_DIR$/oservice-modules/oservice-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-control/oservice-monitor/oservice-monitor.iml" filepath="$PROJECT_DIR$/oservice-control/oservice-monitor/oservice-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-provider/oservice-provider.iml" filepath="$PROJECT_DIR$/oservice-provider/oservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-provider/oservice-serial-push-coin/oservice-serial-push-coin.iml" filepath="$PROJECT_DIR$/oservice-provider/oservice-serial-push-coin/oservice-serial-push-coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oservice-modules/oservice-service/oservice-service.iml" filepath="$PROJECT_DIR$/oservice-modules/oservice-service/oservice-service.iml" />
+    </modules>
+  </component>
+</project>

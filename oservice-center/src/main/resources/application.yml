@@ -1,0 +1,16 @@
+spring:
+    application:
+        name: os-center
+
+server:
+    port: 20010 #启动端口
+
+eureka:
+  server:
+      enable-self-preservation: true           # 关闭自我保护模式（缺省为打开）
+      eviction-interval-timer-in-ms: 5000       # 续期时间，即扫描失效服务的间隔时间（缺省为60*1000ms）
+  client:
+      registerWithEureka: false  #false:不作为一个客户端注册到注册中心
+      fetchRegistry: false      #为true时，可以启动，但报异常：Cannot execute request on any known server
+      serviceUrl:
+          defaultZone: http://localhost:20010/eureka/
